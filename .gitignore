@@ -1,5 +1,9 @@
-.gradle
-build/
+datacollector/.gradle
+datacollector/build/
+ios-gps-tracker/Pods/
+.*\.iml$
+.*\.ipr$
+.*\.iws$
 
 # Ignore Gradle GUI config
 gradle-app.setting
