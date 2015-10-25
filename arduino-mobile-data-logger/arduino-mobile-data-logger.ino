@@ -55,9 +55,9 @@ void loop() {
     // and send result over serial port
     Serial.print("conc=");
     Serial.print(concentration);
-    Serial.print("tempc=");
+    Serial.print("&tempc=");
     Serial.print(temp);
-    Serial.print("humidity=");
+    Serial.print("&humidity=");
     Serial.print(humidity);    
     Serial.println("\n");
     
