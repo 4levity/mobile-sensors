@@ -4,6 +4,8 @@ Description: Mobile sensor data collection w/ iPhone+Arduino+Java server compone
 
 Created by Ivan Cooper for SF Science Hack Day 2015 - Original source at https://github.com/4levity
 
+See the brief project presentation at https://github.com/4levity/mobile-sensors/blob/master/mobile-sensors.pdf
+
 You are free to use and modify this under the terms of the MIT license; see the LICENSE file for details.
 
 ### Instructions ###
