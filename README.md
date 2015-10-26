@@ -8,7 +8,9 @@ You are free to use and modify this under the terms of the MIT license; see the 
 
 ### Instructions ###
 
-Each component folder has its own README file explaining how to build and use that component. You need a Windows, Mac or Linux computer with Arduino software and JDK 1.7 to build the Arduino and Java components. You need a Mac with Xcode installed to build the iOS component.
+Each component folder has its own README file explaining how to build and use that component. You need a Windows, Mac or Linux computer with Arduino software and JDK 1.7 to build the Arduino and Java components. You need a Mac with Xcode installed to build the iOS component. 
+
+While it is possible to implement this project with a non-jailbroken iPhone, the hack used here to retrieve data from the serial port *does* require the phone to be jailbroken. Another alternative would be to use the Redpark Serial Cable for iPhone. Redpark provides an sample app for communication using this cable.
 
 Details on how to connect the Arduino serial port to an iPhone are in the "arduino-mobile-data-logger" folder.
 
