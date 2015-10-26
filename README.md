@@ -8,13 +8,13 @@ You are free to use and modify this under the terms of the MIT license; see the 
 
 ### Instructions ###
 
-This project has several components. Each folder has its own README file explaining how to build and use that component. You need a Windows, Mac or Linux computer with Arduino software and JDK 1.7 to build the Arduino and Java components. You need a Mac with Xcode installed to build the iOS component.
+Each component folder has its own README file explaining how to build and use that component. You need a Windows, Mac or Linux computer with Arduino software and JDK 1.7 to build the Arduino and Java components. You need a Mac with Xcode installed to build the iOS component.
 
 Details on how to connect the Arduino serial port to an iPhone are in the "arduino-mobile-data-logger" folder.
 
 ### Component Descriptions ###
 
-This project has four components:
+There are four components:
 
 * arduino-mobile-data-logger - Arduino project to get sensor data and send
 over the serial port to the iPhone
